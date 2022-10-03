@@ -11,7 +11,7 @@ function Modal({ setOpenModal }) {
                     X </button>
             </div>
             <div className="body">
-                <img src={Logo} width='50%' height='35%' alt="tp1" />
+                <img src={Logo} width='60%' height='45%' alt="tp1" />
             </div>
             <div className="footer">
 
