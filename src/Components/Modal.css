@@ -1,8 +1,8 @@
 
 .modalContainer {
  
-    width: 100vw;
-    height: 130vh;
+    width: 70%;
+    height: 100vh;
     border-radius: 12px;
     background-color: rgba(255, 255, 255, 0.877);
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
